@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Recipes Images/cooked/beef.jpg</file>
+        <file>Recipes Images/cooked/cake.jpg</file>
+        <file>Recipes Images/cooked/chicken.jpg</file>
+        <file>Recipes Images/cooked/pizza.jpg</file>
+        <file>Icon/Stream.png</file>
+        <file>Icon/newLock1.png</file>
+        <file>Icon/Grill.png</file>
+        <file>Icon/Lock.jpg</file>
+        <file>Icon/Warm.png</file>
+        <file>Icon/Fan.png</file>
+        <file>Icon/Power.png</file>
+        <file>Icon/Power1.png</file>
+        <file>InputDialog.qml</file>
+    </qresource>
+</RCC>
